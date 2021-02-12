@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "passGen"
+    }
+  },
+  "defaultProject": "passGen",
+  "cli": {
+    "analytics": false
+  }
 }
